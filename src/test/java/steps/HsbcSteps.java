@@ -1,13 +1,12 @@
 package steps;
 
 
-import io.cucumber.java8.En;
+import io.cucumber.java.en.Given;
 
-public class HsbcSteps implements En {
+public class HsbcSteps  {
 
-    public HsbcSteps() {
-        Given("I am welcome", () -> {
-            System.out.println("\n\n\n Hey, you're welcome!\n\n\n");
-        });
+    @Given("I am welcome")
+    public void iamwelcome() {
+        System.out.println("\n\n\n Hey, you're welcome!\n\n\n");
     }
 }
