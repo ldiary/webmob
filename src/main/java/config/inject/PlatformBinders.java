@@ -3,7 +3,7 @@ package config.inject;
 import com.google.inject.Module;
 
 public enum PlatformBinders {
-    ANDROID ("Android mobile device") {
+    ANDROID ("Android OS mobile device") {
         @Override
         public Module getPlatformConfiguredModules(){
             System.out.println(this);
