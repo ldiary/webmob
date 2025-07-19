@@ -13,9 +13,13 @@
 12. Implementation Inheritance
 13. Working with Polymorphism
 14. Interfaces
+    - ✅ Functional Interfaces
+        - [x] [Functional interfaces and Built-in functional interfaces by Maaike van Putten](https://www.linkedin.com/learning/java-8-for-professionals/functional-interfaces)
+        - [x] [Functional Interfaces by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/interfaces-methods-and-functional-interfaces)
+        - [x] [Core functional interfaces by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/core-functional-interfaces)
 15. ✅ [Enumerations](../src/main/java/config/inject/PlatformBinders.java)
-    -   [x] [Java 11+ Essential Training: Declare and use Enum types](https://www.linkedin.com/learning/java-11-plus-essential-training/declare-and-use-enum-types)
-    -   [x] [Java SE 17 Developer (1Z0-829) Cert Prep: Enumerations](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/enum-values-and-initialization)
+    -   [x] [Declare and use Enum types by David Gassner](https://www.linkedin.com/learning/java-11-plus-essential-training/declare-and-use-enum-types)
+    -   [x] [Enumerations by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/enum-values-and-initialization)
 16. Generics and Generic Declarations
 17. Java Core Collections
 18. Comparator, Comparable, and Ordering
