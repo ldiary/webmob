@@ -9,15 +9,15 @@ Server-side development is done in Java utilising Oracle Coherence in a low late
 You will be responsible for developing risk and P&L functionality in Java, including analysing, designing, coding, and supporting functionality across trade sourcing, market data loading, static data, trade valuation, risk and P&L calculations, real-time aggregation functionality and performance optimisation for Rates, Credit, Emerging Markets and Equity business lines.
 
 ## Your key responsibilities
-Developing business-rich risk and P&L functionality in Java
-Delivering robust, performant and reliable code in a highly multi-threaded and distributed environment
-Working closely with business analysts, quants, traders and other stakeholders to understand requirements and deliver effective solutions
-Supporting the business through a support rota including investigating queries and issues
-Providing technical and business leadership for team members and management of deliveries
+- Developing business-rich risk and P&L functionality in Java
+- Delivering robust, performant and reliable code in a highly multi-threaded and distributed environment
+- Working closely with business analysts, quants, traders and other stakeholders to understand requirements and deliver effective solutions
+- Supporting the business through a support rota including investigating queries and issues
+- Providing technical and business leadership for team members and management of deliveries
 
 ## Your skills and experience
-Expert in server-side development in Java, including multi-threading and distributed systems programming
-Understanding of Rates and Credit derivatives products, risk, and P&L
-Experience developing front-office risk and P&L, trading and/or pricing applications
-Bring a collaborative approach, desire to learn and have determination to succeed
-Experience with Python and/or C++ beneficial
+- Expert in server-side development in Java, including multi-threading and distributed systems programming
+- Understanding of Rates and Credit derivatives products, risk, and P&L 
+- Experience developing front-office risk and P&L, trading and/or pricing applications
+- Bring a collaborative approach, desire to learn and have determination to succeed
+- Experience with Python and/or C++ beneficial
