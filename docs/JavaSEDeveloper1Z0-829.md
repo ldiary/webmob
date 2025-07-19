@@ -5,9 +5,10 @@
 4. Fundamentals of Flow Control
 5. Flow Control with Exceptions
    - `try-with-resources`
-      - [ ] [Flow control with try-with-resources by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/flow-control-with-try-with-resources)
+      - [ ] [Using try-with-resources by Andrejs Doronins](https://app.pluralsight.com/ilx/video-courses/e08bee87-8f67-4e8e-b90a-0ed2fe1cbdb2/794f1211-7744-4fa6-b608-20d386a1b943/c60892a1-349c-4a40-b72c-e943ba8dfb17)
       - [ ] [Using try-with-resources with I/O by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o)
       - [ ] [Implementing AutoCloseable by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/implementing-autocloseable-part-1)
+      - [ ] [Flow control with try-with-resources by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/flow-control-with-try-with-resources)
 6. Custom Exceptions
 7. Class Definition, and Reachability
 8. Defining Class Contents
