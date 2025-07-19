@@ -9,7 +9,7 @@
 7. Virtual Threads
 8. Generational ZGC
 9. Key Encapsulation Mechanism API
-   - [ ] [Understand key encapsulation mechanisms](https://www.linkedin.com/learning/advanced-features-of-java-21/understand-key-encapsulation-mechanisms)
+   - [ ] [Understand key encapsulation mechanisms by Bethan Palmer](https://www.linkedin.com/learning/advanced-features-of-java-21/understand-key-encapsulation-mechanisms)
 10. Foreign Function and Memory API
 11. Scoped Values in Java 21
 12. Vector API
