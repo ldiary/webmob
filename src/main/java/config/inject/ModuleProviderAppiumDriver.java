@@ -6,12 +6,12 @@ import config.drivers.BuilderAndroidDriver;
 import config.drivers.BuilderIosDriver;
 import io.appium.java_client.AppiumDriver;
 
-public class ProviderAppiumDriver implements Provider<AppiumDriver> {
+public class ModuleProviderAppiumDriver implements Provider<AppiumDriver> {
 
     private static AppiumDriver sessionDriver;
     private final String platform = Environment.requiredSystemProperty("platform");
 
-    public ProviderAppiumDriver() {
+    public ModuleProviderAppiumDriver() {
     }
 
     @Override
