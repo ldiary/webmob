@@ -8,17 +8,12 @@ public enum Platform {
         public Module getPlatformConfiguredModules() {
           return new ModulesIos();
         }
-
-        ;
     },
     ANDROID {
         @Override
         public Module getPlatformConfiguredModules(){
             return new ModulesAndroid();
         }
-
-
-        ;
     };
 
     public abstract Module getPlatformConfiguredModules();
