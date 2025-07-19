@@ -6,24 +6,33 @@ repositories {
     mavenCentral()
 }
 
-
-dependencies {
-// https://mvnrepository.com/artifact/com.google.inject/guice
-    implementation 'com.google.inject:guice:7.0.0'
-    // https://mvnrepository.com/artifact/io.cucumber/cucumber-guice
-    implementation 'io.cucumber:cucumber-guice:7.26.0'
-    // https://mvnrepository.com/artifact/io.appium/java-client
-    implementation 'io.appium:java-client:9.5.0'
-// https://mvnrepository.com/artifact/io.cucumber/cucumber-junit-platform-engine
-    testImplementation 'io.cucumber:cucumber-junit-platform-engine:7.26.0'
-    // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.13.3'
-    // https://mvnrepository.com/artifact/org.junit.platform/junit-platform-suite
-    testImplementation 'org.junit.platform:junit-platform-suite:1.13.3'
-// https://mvnrepository.com/artifact/io.cucumber/cucumber-java
-    implementation 'io.cucumber:cucumber-java:7.26.0'
+tasks.withType(JavaCompile) {
+    options.compilerArgs += ['-Xlint:deprecation']
 }
 
 test {
+    // Removing this will result in error: Test events were not received
     useJUnitPlatform()
+}
+
+dependencies {
+    /**
+     * Framework Components - 3rd Parties
+     */
+    // https://mvnrepository.com/artifact/com.google.inject/guice
+    implementation 'com.google.inject:guice:7.0.0'
+    // https://mvnrepository.com/artifact/io.appium/java-client
+    implementation 'io.appium:java-client:9.5.0'
+    // https://mvnrepository.com/artifact/org.junit.platform/junit-platform-suite
+    testImplementation 'org.junit.platform:junit-platform-suite:1.13.3'
+
+    /**
+     * Framework Components - Cucumber
+     */
+    // https://mvnrepository.com/artifact/io.cucumber/cucumber-guice
+    implementation 'io.cucumber:cucumber-guice:7.26.0'
+    // https://mvnrepository.com/artifact/io.cucumber/cucumber-java
+    implementation 'io.cucumber:cucumber-java:7.26.0'
+    // https://mvnrepository.com/artifact/io.cucumber/cucumber-junit-platform-engine
+    testImplementation 'io.cucumber:cucumber-junit-platform-engine:7.26.0'
 }
