@@ -13,9 +13,9 @@
 12. Implementation Inheritance
 13. Working with Polymorphism
 14. Interfaces
-15. ✅ Enumerations
-    -   [ ] [Java SE 17 Developer (1Z0-829) Cert Prep: Enumerations](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/enum-values-and-initialization)
-    -   [ ] [Java 11+ Essential Training: Declare and use Enum types](https://www.linkedin.com/learning/java-11-plus-essential-training/declare-and-use-enum-types)
+15. ✅ [Enumerations](../src/main/java/config/inject/PlatformBinders.java)
+    -   [x] [Java 11+ Essential Training: Declare and use Enum types](https://www.linkedin.com/learning/java-11-plus-essential-training/declare-and-use-enum-types)
+    -   [x] [Java SE 17 Developer (1Z0-829) Cert Prep: Enumerations](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/enum-values-and-initialization)
 16. Generics and Generic Declarations
 17. Java Core Collections
 18. Comparator, Comparable, and Ordering
