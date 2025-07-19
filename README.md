@@ -1,5 +1,5 @@
-How to configure test runner in Cucumber with JUnit 5 so that it scans `selected directories` and only runs the tests whose scenario name is the same as the one  specified in the `filter name`.
-```shell
+How to configure test runner in Cucumber with JUnit 5 so that it scans `selected directories` and only runs the tests whose scenario name is the same as the one  specified in the `filter name`?
+```java
 @Suite
 @IncludeEngines("cucumber")
 @SelectDirectories("src/test/java/features")
