@@ -14,6 +14,7 @@ public class ProviderAppiumDriver implements Provider<AppiumDriver> {
     public ProviderAppiumDriver() {
     }
 
+    @Override
     public AppiumDriver get() {
         if (sessionDriver == null) {
             if (platform.equalsIgnoreCase("ios")) {
