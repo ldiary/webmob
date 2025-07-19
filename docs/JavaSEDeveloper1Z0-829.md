@@ -9,6 +9,7 @@
       - [ ] [Using try-with-resources with I/O by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o)
       - [ ] [Implementing AutoCloseable by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/implementing-autocloseable-part-1)
       - [ ] [Flow control with try-with-resources by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/flow-control-with-try-with-resources)
+      - [ ] [Catch exceptions to remedy error conditions by Cay Horstmann](https://learning.oreilly.com/videos/core-java-11/9780135160053/9780135160053-CJ92_01_07_02/)
 6. Custom Exceptions
 7. Class Definition, and Reachability
 8. Defining Class Contents
