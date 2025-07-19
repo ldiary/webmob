@@ -7,6 +7,7 @@
    - `try-with-resources`
       - [ ] [Flow control with try-with-resources by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/flow-control-with-try-with-resources)
       - [ ] [Using try-with-resources with I/O by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o)
+      - [ ] [Implementing AutoCloseable by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/implementing-autocloseable-part-1)
 6. Custom Exceptions
 7. Class Definition, and Reachability
 8. Defining Class Contents
