@@ -37,3 +37,6 @@
 29. Java Serialization
 30. Files, Path, and Channel
 31. Localization
+
+streams
+by resource
