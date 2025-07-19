@@ -1,4 +1,5 @@
 # Senior Quantitative Software Engineer – Java – Intraday Risk
+Job Requisition ID: [R0291758](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Lead-Quantitative-Software-Engineer---Java---Intraday-Risk_R0291758)
 
 Group Strategic Analytics is part of Group Chief Operation Office (COO) which acts as the bridge between the Bank’s businesses and infrastructure functions to help deliver the efficiency, control, and transformation goals of the Bank.
 
