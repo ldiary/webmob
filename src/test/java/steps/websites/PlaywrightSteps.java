@@ -3,7 +3,6 @@ package steps.websites;
 
 import com.google.inject.Inject;
 import com.microsoft.playwright.Page;
-import com.microsoft.playwright.options.AriaRole;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Given;

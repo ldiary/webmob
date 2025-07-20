@@ -20,7 +20,10 @@ public class ModuleProviderPlaywrightPage implements Provider<Page> {
         if (sessionPage == null) {
             if (browser.equals(PlaywrightBrowsers.FIREFOX.name())) {
                 sessionPage = Playwright.create().firefox().launch().newPage();
-            } else {
+            } else if (browser.equals(PlaywrightBrowsers.WEBKIT.name()))  {
+                sessionPage = Playwright.create().webkit().launch().newPage();
+            }
+            else {
                 sessionPage = Playwright.create().chromium().launch().newPage();
             }
         }
