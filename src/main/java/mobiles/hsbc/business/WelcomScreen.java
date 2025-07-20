@@ -1,4 +1,4 @@
-package projects.hsbc.business;
+package mobiles.hsbc.business;
 
 public interface WelcomScreen {
     void greetings();

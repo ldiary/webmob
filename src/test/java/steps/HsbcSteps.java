@@ -3,7 +3,7 @@ package steps;
 
 import com.google.inject.Inject;
 import io.cucumber.java.en.Given;
-import projects.hsbc.business.WelcomScreen;
+import mobiles.hsbc.business.WelcomScreen;
 
 public class HsbcSteps  {
     WelcomScreen welcomScreen;

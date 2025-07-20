@@ -16,6 +16,13 @@ public enum PlatformBinders {
             System.out.println(this);
             return new ModuleBinderIos();
         }
+    },
+    PLAYWRIGHT("playwright controlled web browser"){
+        @Override
+        public Module getPlatformConfiguredModules() {
+            System.out.println(this);
+            return new ModuleBinderPlaywright();
+        }
     };
 
     private final String description;

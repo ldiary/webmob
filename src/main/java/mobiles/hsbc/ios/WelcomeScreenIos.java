@@ -1,6 +1,6 @@
-package projects.hsbc.ios;
+package mobiles.hsbc.ios;
 
-import projects.hsbc.business.WelcomScreen;
+import mobiles.hsbc.business.WelcomScreen;
 
 public class WelcomeScreenIos implements WelcomScreen {
 

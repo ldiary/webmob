@@ -1,4 +1,4 @@
-package projects.hsbc.common;
+package mobiles.hsbc.common;
 
 public class HsbcBusiness {
 }

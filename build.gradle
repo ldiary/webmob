@@ -40,4 +40,10 @@ dependencies {
     implementation 'io.cucumber:cucumber-java:7.26.0'
     // https://mvnrepository.com/artifact/io.cucumber/cucumber-junit-platform-engine
     testImplementation 'io.cucumber:cucumber-junit-platform-engine:7.26.0'
+
+    /**
+     * Playwright
+     */
+    // https://mvnrepository.com/artifact/com.microsoft.playwright/playwright
+    implementation 'com.microsoft.playwright:playwright:1.53.0'
 }
