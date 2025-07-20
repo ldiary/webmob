@@ -5,11 +5,12 @@ import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 import config.Environment;
+import config.drivers.PlaywrightBrowsers;
 
 public class ModuleProviderPlaywrightPage implements Provider<Page> {
 
     private static Page sessionPage;
-    private final String platform = Environment.requiredSystemProperty("platform");
+    private final String browser = Environment.requiredSystemProperty("browser");
 
     public ModuleProviderPlaywrightPage() {
     }
@@ -17,7 +18,11 @@ public class ModuleProviderPlaywrightPage implements Provider<Page> {
     @Override
     public Page get() {
         if (sessionPage == null) {
-            sessionPage = Playwright.create().chromium().launch().newPage();
+            if (browser.equals(PlaywrightBrowsers.FIREFOX.name())) {
+                sessionPage = Playwright.create().firefox().launch().newPage();
+            } else {
+                sessionPage = Playwright.create().chromium().launch().newPage();
+            }
         }
         return sessionPage;
     }
