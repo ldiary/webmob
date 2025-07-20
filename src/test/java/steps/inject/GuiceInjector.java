@@ -1,4 +1,4 @@
-package steps;
+package steps.inject;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;

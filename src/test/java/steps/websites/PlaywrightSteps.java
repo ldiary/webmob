@@ -1,4 +1,4 @@
-package steps;
+package steps.websites;
 
 
 import com.google.inject.Inject;
