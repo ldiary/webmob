@@ -23,17 +23,22 @@ The successful applicant will be a part of a new and dynamic team. This role wil
 
 ## Ideal Candidate
 - Professional experience in a Software Product / IT Development sphere
-- Demonstrate server-side software coding maturity using Java 11+ but also knowledge of SQL (DB2 / SQL Server / Postgres preferred).
-- Demonstrate excellent use of Design Patterns / Micro Services/ RESTful APIs
-- Basic capability in UI Development using advanced JavaScript (React and Node.js preferred) HTML, CSS
+- Demonstrate server-side software coding maturity using Java 11+ but also
+   - [ ] knowledge of SQL (DB2 / SQL Server / Postgres preferred).
+- Demonstrate excellent use of
+   - [ ] Design Patterns / Micro Services/ RESTful APIs
+- Basic capability in UI Development using
+   - [ ] advanced JavaScript (React and Node.js preferred) HTML, CSS
 - Working in a Technical Agile environment (e.g. Build tools, Static/Dynamic code analysis, CI/CD e.g. Jenkins/TeamCity)
 - Relevant educational qualifications
 - Self-motivation and tenacity to push new ideas through whilst still respectively considering other’s input and insights.
 - Excellent written and verbal communication skills.
 - Be approachable, personable and proactive
 - Hold and express independent views respectfully
-- Knowledge of Client-Side development using React/Node.js JavaScript, HTML, CSS is a bonus
-- Knowledge of Elastic ELK stack is a bonus.
-- Knowledge of Container platforms (e.g. Docker/Kubernetes) is a bonus.
-- Knowledge of Test Automation tools like Cucumber/Selenium is a bonus
+- Knowledge of Client-Side development using
+   - [ ] React/Node.js JavaScript, HTML, CSS is a bonus
+- Knowledge of
+   - [ ] Elastic ELK stack is a bonus.
+- Knowledge of ✅ Container platforms (e.g. Docker/Kubernetes) is a bonus.
+- Knowledge of ✅ Test Automation tools like Cucumber/Selenium is a bonus
 - Knowledge of IBMi RPG and IBM DB2 is a bonus.
