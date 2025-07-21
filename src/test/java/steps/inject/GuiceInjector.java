@@ -10,10 +10,10 @@ import io.cucumber.guice.InjectorSource;
 
 public class GuiceInjector implements InjectorSource {
 
-    private final String platform = Environment.requiredSystemProperty("platform");
+    private final String desiredPlatform = Environment.requiredSystemProperty(Environment.PLATFORM);
 
     @Override
     public Injector getInjector() {
-        return Guice.createInjector(Stage.PRODUCTION, CucumberModules.createScenarioModule(), PlatformBinders.valueOf(platform).getPlatformConfiguredModules());
+        return Guice.createInjector(Stage.PRODUCTION, CucumberModules.createScenarioModule(), PlatformBinders.valueOf(desiredPlatform).getPlatformConfiguredModules());
     }
 }

@@ -30,11 +30,10 @@ public enum PlatformBinders {
     PlatformBinders(String description) {
         this.description = description;
     }
+    public abstract Module getPlatformConfiguredModules();
 
     @Override
     public String toString() {
         return String.format("Configuring platform bindings for an %s.", description);
     }
-
-    public abstract Module getPlatformConfiguredModules();
 }
