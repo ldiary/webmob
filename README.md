@@ -25,3 +25,5 @@ systemProp.platform=playwright
 systemProp.cucumber.filter.name=Find out my current browser details
 systemProp.cucumber.glue=steps/inject,steps/websites
 ```
+
+Settings in `cucumber.properties` are all basically moved into `gradle.properties`. The cucumber injector source is also being defined in `gradle.properties` by specifying the location of the injector as part of the glue path. In this case, `systemProp.cucumber.glue=steps/inject`. 
