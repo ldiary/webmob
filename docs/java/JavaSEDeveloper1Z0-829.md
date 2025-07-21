@@ -41,8 +41,20 @@
        - [ ] [Generic methods in Java by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/generic-methods-in-java)
     - Bounded Generics
        - [ ] [Bounded generics in Java by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/bounded-generics-in-java)
+         ```java
+         static <T extends Number> List<T> convertArrayToList(T[] array){
+             return Arrays.asList(array);
+         }
+         ```
     - Wildcards
        - [ ] [Using wildcards in generic programming by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming)
+         ```java
+         static void checkoutAllItems(List<? extends ClothingItem> clothingItems){
+             for (ClothingItem clothingItem : clothingItems) {
+                 checkoutItem(clothingItem)
+             }
+         }
+         ```
 17. Java Core Collections
 18. Comparator, Comparable, and Ordering
 19. Defining Lambda Expressions
