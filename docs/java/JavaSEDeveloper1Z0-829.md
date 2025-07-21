@@ -33,6 +33,16 @@
     -   [x] [Declare and use Enum types by David Gassner](https://www.linkedin.com/learning/java-11-plus-essential-training/declare-and-use-enum-types)
     -   [x] [Enumerations by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/enum-values-and-initialization)
 16. Generics and Generic Declarations
+    - Generics
+       - [ ] [Introduction to generics in Java by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java)
+       - [ ] [Fundamentals of generics by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/fundamentals-of-generics)
+       - [ ] [Declaring generic types and methods by Simon Roberts](https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep/declaring-generic-types-and-methods)
+    - Generic Methods
+       - [ ] [Generic methods in Java by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/generic-methods-in-java)
+    - Bounded Generics
+       - [ ] [Bounded generics in Java by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/bounded-generics-in-java)
+    - Wildcards
+       - [ ] [Using wildcards in generic programming by Bethan Palmer](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming)
 17. Java Core Collections
 18. Comparator, Comparable, and Ordering
 19. Defining Lambda Expressions
