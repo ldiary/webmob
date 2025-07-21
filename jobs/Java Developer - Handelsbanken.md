@@ -6,7 +6,7 @@ Job Reference
 - [hbuk/TP/358/1740](https://careers.handelsbanken.co.uk/members/modules/job/detail.php?record=1740)
 
 ## Main Responsibilities
-We require an additional Java Developer providing expertise in the full software development life cycle. The core specialty skillset is Java, but the ideal candidate should also have knowledge of front-end and back-end development.
+We require an additional Java Developer providing expertise in the full software development life cycle. The core specialty skillset is Java, but the ideal candidate should also have **knowledge of front-end and back-end development**.
 
 The successful applicant will be a part of a new and dynamic team. This role will suit a developer who is looking to build solutions from scratch and have a strong sense of responsibility within the team and the wider business.
 - Use their own initiative to work with Senior Java Development, UI/UX Development and Agile Transformation to help shape, architect and deliver greenfield/brownfield/integration applications employing best design and development practice
