@@ -6,7 +6,7 @@ repositories {
     mavenCentral()
 }
 
-tasks.withType(JavaCompile) {
+tasks.withType(JavaCompile).configureEach {
     options.compilerArgs += ['-Xlint:deprecation']
 }
 
@@ -15,7 +15,7 @@ test {
     useJUnitPlatform()
 }
 
-tasks.withType(Test) {
+tasks.withType(Test).configureEach {
     // Without this gradle will not pass the variables setup in -Dproperty=value
     systemProperties System.properties
 }
