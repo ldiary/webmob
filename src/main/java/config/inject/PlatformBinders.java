@@ -34,6 +34,6 @@ public enum PlatformBinders {
 
     @Override
     public String toString() {
-        return String.format("Configuring platform bindings for an %s.", description);
+        return String.format("Configuring platform bindings for a(n) %s.", description);
     }
 }

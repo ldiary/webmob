@@ -1,6 +1,5 @@
 package steps.websites;
 
-
 import com.google.inject.Inject;
 import com.microsoft.playwright.Page;
 import io.cucumber.java.After;
@@ -15,8 +14,8 @@ public class PlaywrightSteps {
         this.page = page;
     }
 
-    @Given("I am welcome in playwright")
-    public void iamWelcomeInPlaywright() {
+    @Given("I want to find out what browser Playwright is actually using")
+    public void getMyBrowserStep() {
         page.navigate("https://www.whatsmybrowser.org");
         System.out.println(page.locator("h2.header").first().innerText());
     }
