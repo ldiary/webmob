@@ -2,7 +2,7 @@
 
 1. ✅ [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/A00BQVKQIEJV)
 2. ✅ [Java Programming for Beginners](https://www.coursera.org/account/accomplishments/verify/CUUNFTHHX9HG)
-3. Getting Started with Git and GitHub
+3. ✅ [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6UGAOXTYDZOV)
 4. Object Oriented Programming in Java
 5. Introduction to HTML, CSS, & JavaScript
 6. Cloud Native, Microservices, Containers, DevOps and Agile
