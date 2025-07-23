@@ -7,7 +7,7 @@
 5. ✅ [Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/verify/RAMJGZXG0T9A)
 6. ✅ [Cloud Native, Microservices, Containers, DevOps and Agile](https://www.coursera.org/account/accomplishments/verify/5KDWWUHAEWTX)
 7. ✅ [Spring Framework for Java Development](https://www.coursera.org/account/accomplishments/verify/OG926RLMN605)
-8. Java Development with Databases
+8. ✅ [Java Development with Databases](https://www.coursera.org/account/accomplishments/verify/4WHGZPNRHUV1)
 9. Java Development Capstone Project
 10. Software Developer Career Guide and Interview Preparation
 11. Generative AI: Elevate your Software Development Career
