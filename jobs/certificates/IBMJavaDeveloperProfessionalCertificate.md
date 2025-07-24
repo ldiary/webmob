@@ -9,5 +9,5 @@
 7. ✅ [Spring Framework for Java Development](https://www.coursera.org/account/accomplishments/verify/OG926RLMN605)
 8. ✅ [Java Development with Databases](https://www.coursera.org/account/accomplishments/verify/4WHGZPNRHUV1)
 9. Java Development Capstone Project
-10. Software Developer Career Guide and Interview Preparation
-11. Generative AI: Elevate your Software Development Career
+10. ✅ [Software Developer Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/verify/29NCLYHX4I9U)
+11. ✅ [Generative AI: Elevate your Software Development Career](https://www.coursera.org/account/accomplishments/verify/6OPOJIEYZ1K3)
